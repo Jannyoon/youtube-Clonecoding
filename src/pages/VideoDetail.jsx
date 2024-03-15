@@ -1,3 +1,8 @@
+import { useParams } from "react-router-dom"
+
 export default function VideoDetail(){
-  return <>VideoDetails</>
+  const params = useParams();
+  const videoId = params.videoId;
+  console.log(videoId);
+  return <>Videos🔎{videoId}</>
 }
