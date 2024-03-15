@@ -1,0 +1,192 @@
+{
+  "kind": "youtube#channelSectionListResponse",
+  "etag": "OnVlREOIlReC_7oyl6dkl8mlZsA",
+  "items": [
+      {
+          "kind": "youtube#channelSection",
+          "etag": "wtTNlAQkn0O_lapTMRQRNvvjHp0",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.jNQXAC9IVRw",
+          "snippet": {
+              "type": "channelsectiontypeundefined",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 0
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "JCV6GMvlcLosjvjXEZtRC0GPqEQ",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.LeAltgu_pbM",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 1
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLWz5rJ2EKKc_sAwvxL-DjrIMOKT9NOh30"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "InrshLLak3H14J80HgzNhnuVQf4",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.nGzAI5pLbMY",
+          "snippet": {
+              "type": "recentuploads",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 2
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "2POq4pHHgUBQw1AuWIT3QMgiXnA",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.__WLXNpu6u8",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 3
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIKlfnCFova6i5Iw9BzVF7GY"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "ZR3rd0K8rIULRalGMBkDdLEkoxI",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.Zx4DA4xg9IM",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 4
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIKYNPuOQ8M0clWQ8lBnOU-P"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "Ib1dny8tOov4YywDLs_C5Ugu2RQ",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.MykmTeTiooA",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 5
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIJP5qhmw5tbNP0zN3k3ydaI"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "yx7efgyvuSquCHZLdWtzP4piDzA",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.iJLXf_7B368",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 6
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIKIKuo6grumFEzzlQ4FXUsR"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "ij3CV9HFRZeyeX2ZsUmRGv_I89I",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.UgY69lf0UCE",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 7
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIIQye6fWbHmf9HhRKs0z9r7"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "Cmz6iTqvqzJNm6969m-Ep2CGNJ4",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.ebKlgRwnpFY",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 8
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsILMUsDRrVoRRlL29p8LHFIT"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "tkSA-V1Mh0wltuQ41zf9R7xz7Ho",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.aqsRo9JYx5M",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 9
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIJ9ktgk5CnbtQB332XfWQef"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "7H32CljgwNW9pAdfXCWEYcArAto",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.XgM4c0oGu94",
+          "snippet": {
+              "type": "singleplaylist",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "position": 10
+          },
+          "contentDetails": {
+              "playlists": [
+                  "PLOU2XLYxmsIIQu60hsxQdxDH4lcZOMRSS"
+              ]
+          }
+      },
+      {
+          "kind": "youtube#channelSection",
+          "etag": "K2Ex1TQDTUcyCnULO0xK56CVRmE",
+          "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.aBfUFr9SBY0",
+          "snippet": {
+              "type": "multiplechannels",
+              "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+              "title": "Featured Channels",
+              "position": 11
+          },
+          "contentDetails": {
+              "channels": [
+                  "UCdIiCSqXuybzwGwJwrpHPqw",
+                  "UCO5cgpkcYjnsdxZdEDR3Jog",
+                  "UCwXdFgeE9KYzlDdR7TG9cMw",
+                  "UCP4bf6IHJJQehibu6ai__cg",
+                  "UCVHFbqXqoYvEWM1Ddxl0QDg",
+                  "UCVhDYDVo3AqyMIKtMLSrcEg",
+                  "UCnUYZLuoy1rq1aVMwx4aTzw",
+                  "UC0rqucBdTuFTjJiefW5t-IQ",
+                  "UCcnSNQb0tLVd8uT7gzI8duA",
+                  "UC8QMvQrV1bsK7WO37QpSxSg",
+                  "UCJS9pqu9BzkAMNTmzNMNhvg",
+                  "UCWf2ZlNsCGDS89VBF_awNvA",
+                  "UC7BjFZywGHiqWdEF7SnQ7hQ",
+                  "UCXDc-ckqru8BgppXbCt0APw",
+                  "UCUcg6az6etU_gRtZVAhBXaw",
+                  "UCkUZagbGbewp3bZQLXGzkmA"
+              ]
+          }
+      }
+  ]
+}
