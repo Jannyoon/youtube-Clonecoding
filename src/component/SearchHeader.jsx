@@ -4,7 +4,7 @@ import { useNavigate, Link, useParams } from 'react-router-dom';
 
 export default function SearchHeader() {
   const [text, setText] = useState('');
-  const {keyword} = useParams(); //keyword가 변경될 때마다 text를 업데이트해주는 것이 필요하다.
+  const { keyword } = useParams(); //keyword가 변경될 때마다 text를 업데이트해주는 것이 필요하다.
   const navigate = useNavigate();
   const handleSubmit = (e)=>{
     e.preventDefault(); //새로고침 실행 방지
