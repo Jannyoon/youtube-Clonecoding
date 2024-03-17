@@ -9,12 +9,16 @@ import {
 import VideoCard from "../component/VideoCard";
 
 import search from "../api/youtube";
+import FakeYoutube from "../api/fakeYoutube";
 
 export default function Videos(){
   const { keyword } = useParams();
   const {isLoading, error, data:videos} = useQuery({
     queryKey :['videos', keyword], 
-    queryFn : search
+    queryFn : ()=>{
+      const youtube = new FakeYoutube();
+      return youtube.search(keyword);
+    }
   });
 
   return(
@@ -24,7 +28,7 @@ export default function Videos(){
       {error && <p>Something is wrong🙄</p> }
       {videos && <ul>
         {videos.map((video)=>(
-          <VideoCard key={keyword ? video.id.videoId :video.id} video={video}/>
+          <VideoCard key={video.id} video={video}/>
         ))}
         </ul>}
     </>
