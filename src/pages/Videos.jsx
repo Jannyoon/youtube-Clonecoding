@@ -8,15 +8,13 @@ import {
 } from '@tanstack/react-query';
 import VideoCard from "../component/VideoCard";
 
+import search from "../api/youtube";
+
 export default function Videos(){
   const { keyword } = useParams();
   const {isLoading, error, data:videos} = useQuery({
     queryKey :['videos', keyword], 
-    queryFn : async ()=>{
-      return fetch(`/videos/${keyword? 'search' : 'popular'}.json`)
-      .then(res => res.json())
-      .then(data => data.items);
-    }
+    queryFn : search
   });
 
   return(

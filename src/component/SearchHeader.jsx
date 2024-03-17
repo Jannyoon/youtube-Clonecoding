@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { BsYoutube, BsSearch } from "react-icons/bs";
 import { useNavigate, Link, useParams } from 'react-router-dom';
+import axios from "axios";
 
 export default function SearchHeader() {
   const [text, setText] = useState('');
